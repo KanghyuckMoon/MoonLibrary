@@ -50,6 +50,8 @@
     <Compile Include="DesignPattern\Observer.cs" />
     <Compile Include="DesignPattern\Singleton.cs" />
     <Compile Include="Math\Parabola.cs" />
+    <Compile Include="Pool\IPool.cs" />
+    <Compile Include="Pool\PoolManager.cs" />
     <Compile Include="TestClass.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
